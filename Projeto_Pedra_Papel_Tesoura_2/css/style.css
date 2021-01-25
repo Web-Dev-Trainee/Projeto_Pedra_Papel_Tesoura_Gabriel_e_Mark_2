@@ -1,0 +1,45 @@
+body {
+    background: black;
+    color: blanchedalmond;
+    font: normal 15pt Arial;
+    position: absolute; 
+    left: 450px; 
+    top: 100px; 
+}
+div#pedraButton {
+    background: maroon;
+    width: 100px;
+    height: 20px;
+    text-align: center;
+    display: inline-block;
+    font: normal 13pt Arial;
+    margin-left: 60px;
+}
+div#tesouraButton {
+    background: purple;
+    width: 100px;
+    height: 20px;
+    text-align: center;
+    display: inline-block;
+    margin-left: 40px;
+    font: normal 13pt Arial;
+}
+div#papelButton {
+    background: rgb(43, 143, 40);
+    width: 100px;
+    height: 20px;
+    text-align: center;
+    display: inline-block;
+    margin-left: 40px;
+    font: normal 13pt Arial;
+}
+div#ChoiceComputer {
+    margin-top: 10px;
+}
+div#result {
+    margin-top: 10px;
+    padding: 5px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background: rgb(105, 105, 105);
+}
